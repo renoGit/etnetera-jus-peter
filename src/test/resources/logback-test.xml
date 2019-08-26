@@ -1,0 +1,3 @@
+<configuration>
+    <logger name="com.etnetera.hr.error.ClientErrorHandler" level="OFF" />
+</configuration>

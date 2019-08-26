@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Angular",
+    "version": "1.2.3",
+    "deprecationDate": null,
+    "hypeLevel": 70
+  },
+  {
+    "id": 2,
+    "name": "Angular",
+    "version": "8.0.0",
+    "deprecationDate": "2019-11-28",
+    "hypeLevel": null
+  },
+  {
+    "id": 3,
+    "name": "React",
+    "version": "16.9",
+    "deprecationDate": "2020-01-07",
+    "hypeLevel": 95
+  },
+  {
+    "id": 4,
+    "name": "Vue.js",
+    "version": "2.6.10",
+    "deprecationDate": null,
+    "hypeLevel": 75
+  },
+  {
+    "id": 5,
+    "name": "Vue.js",
+    "version": "2.5.22",
+    "deprecationDate": "2019-12-31",
+    "hypeLevel": 30
+  },
+  {
+    "id": 6,
+    "name": "Next.js",
+    "version": "9",
+    "deprecationDate": null,
+    "hypeLevel": null
+  },
+  {
+    "id": 7,
+    "name": "Relay",
+    "version": "5.0.0",
+    "deprecationDate": null,
+    "hypeLevel": 50
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Angular",
+    "version": "1.2.3",
+    "deprecationDate": null,
+    "hypeLevel": 70
+  },
+  {
+    "id": 2,
+    "name": "Angular",
+    "version": "8.0.0",
+    "deprecationDate": "2019-11-28",
+    "hypeLevel": null
+  }
+]
